@@ -60,3 +60,9 @@
   sudo service mongod start
   sudo systemctl enable mongod
   ```
+
+## dnsCrypt setup
+
+  ```bash
+  sudo dnscrypt-proxy --ephemeral-keys --resolver-name=ns0.dnscrypt.is --daemonize
+  ```
