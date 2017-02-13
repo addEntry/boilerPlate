@@ -1,4 +1,4 @@
-[//] <https://youtu.be/i6FbyOMcclk>
+[comment] <https://youtu.be/i6FbyOMcclk>
 
 # Fedora post-install instructions
 
