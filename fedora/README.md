@@ -1,5 +1,3 @@
-[comment] <https://youtu.be/i6FbyOMcclk>
-
 # Fedora post-install instructions
 
 ## Uninstall software that we do not like
