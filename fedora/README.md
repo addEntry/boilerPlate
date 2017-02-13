@@ -58,7 +58,6 @@
   ```bash
   sudo service privoxy start
   sudo systemctl enable privoxy
-  sudo service mongodb start
   sudo service mongod start
   sudo systemctl enable mongod
   ```
