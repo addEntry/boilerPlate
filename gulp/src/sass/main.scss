@@ -1,0 +1,12 @@
+// scss configFile
+
+$primaryColor: red;
+
+body {
+  background: $primaryColor;
+  p{
+    background: #FFF;
+    border-radius:4px;
+    padding:20px;
+  }
+ }

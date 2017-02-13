@@ -1,0 +1,1 @@
+$(document).ready(function(){$("a").click(function(n){alert("you are on admin page now!"),n.preventDefault()})});
