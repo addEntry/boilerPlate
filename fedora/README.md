@@ -10,13 +10,7 @@
 
   ```bash
   sudo dnf update
-  ```
-
-    ```bash
   sudo dnf autoremove
-  ```
-
-  ```bash
   sudo dnf clean packages
   ```
 
