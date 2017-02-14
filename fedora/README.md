@@ -62,8 +62,16 @@
   sudo systemctl enable mongod
   ```
 
-## dnsCrypt setup
+## DnsCrypt setup
 
   ```bash
   sudo dnscrypt-proxy --ephemeral-keys --resolver-name=ns0.dnscrypt.is --daemonize
   ```
+
+## Hints
+
+  * - removing old kernels
+
+    ```bash
+    sudo package-cleanup --oldkernels --count=1
+    ```
