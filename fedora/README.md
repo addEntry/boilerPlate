@@ -70,7 +70,7 @@
 
 ## Hints
 
-* - removing old kernels
+####Removing old kernels
 
   ```bash
   sudo package-cleanup --oldkernels --count=1
