@@ -52,6 +52,7 @@
   * - mongodb-server
   * - mongodb
   * - wipe
+  * - perl-Image-ExifTool.noarch
 
 ## Enabling privoxy & mongoDB services at boot
 
