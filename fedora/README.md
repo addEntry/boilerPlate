@@ -72,6 +72,6 @@
 
 * - removing old kernels
 
-    ```bash
-    sudo package-cleanup --oldkernels --count=1
-    ```
+  ```bash
+  sudo package-cleanup --oldkernels --count=1
+  ```
